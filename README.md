@@ -12,11 +12,18 @@ notes:	scanf() returns EOF(end of file) if there is something wrong or the readi
 	
 ---------------------------------------------------------
 1001:	a+b for matrices
-file:	1001.c
+file:	part-one-1001.c
 status:	ac	
 notes:	remeber the difference between int and int*
 	remeber the way to declare the 2-dimension array 
 	remeber to free the dynamic array when finished and the way to free it
+
+---------------------------------------------------------
+1002:	grading
+file:	part-one-1002.c
+status:	ac
+notes:	bool is not supported in this online judge
+	formulization of the result is very strict and important
 
 ---------------------------------------------------------
 
