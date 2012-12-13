@@ -26,8 +26,13 @@ notes:	bool is not supported in this online judge
 	formulization of the result is very strict and important
 
 ---------------------------------------------------------
+1003:	A+B
+file:	part-one-1003.c
+status: ac
+notes:	the way to get each 'char' is easy to time out
+	so, use scanf("%s %s",a,b) to instead getchar()
 
-
+----------------------------------------------------------
 
 
 
