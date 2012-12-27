@@ -55,8 +55,12 @@ notes:	the main idea of 1004 is to change the length of a and b to the same,as t
 		  there are (begin+end)/2-1 which are smaller then medium 
 		  and there (begin+end)/2 which are bigger then medium
 	    Second:when the sequence given you is odd,when you add a bingger enough number to the end,the medium would not change. 
---------------------------------------------------------------
+	--------------------------------------------------------------
 
+	----------------------------------------------------------------
+	----------------------------------------------------------------
+	move on to usaco,as it's environment is better!
+	-----------------------------------------------
 
 
 
